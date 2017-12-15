@@ -1,13 +1,20 @@
-# Portfolio by Andrey Lukyanenko
-
+# Portfolio by Ashish Karel
 ## About
+<img style="float: right;" src="ashish.jpg">
 Hi there!
 I'm Ashish Karel, prefinal year student at The LNM Institute Of Information Technology.
 
 I'm mainly interested in Deep Learning especially in Computer vision and Natural Language Processing.
 Passionate for data, statistics and Machine Learning.If still time persists me, then my next stop is AI(Reinforcement Learaning + multi-agent systems) and cryptocurrency(all hail to Satoshi Nakamoto).
 
-## Stand-alone projects.
+## Group projects.
+
+### Institute Map
+
+Every year parents arrives at LNMIIT to get their childrens enrolled,being a vast campus of 100 acres with huge infrastructure certainly arises problems.Peoples during their first visits tend to get lost or could not locate certain place.In this project we collected data of 7 different locations of LNMIIT, trained on different classifiers, and deployed an app on [heoku](https://herokuapp.com).With this app, user just need to input its surrounding image, and it will recognises the input image with the ML code running on servers.Then they will be directed to LNMIIT map with their current location, user can also seek route between two location on the map.
+
+### 
+
 
 ### Handwritten digit recognition
 
@@ -17,24 +24,10 @@ This is my own project using image recognition methods in practice. This is a si
 
 ### Titanic: Machine Learning from Disaster
 
-[Github](https://github.com/Erlemar/Erlemar.github.io/blob/master/Notebooks/Titanic.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/Erlemar/Erlemar.github.io/blob/master/Notebooks/Titanic.ipynb)
+Titanic: Machine Learning from Disaster is a knowledge competition on Kaggle.
+Binary classification problem, based on information about Titanic passengers task is to predict whether a person on titanic survived or not.General description and data are available on [Kaggle](https://www.kaggle.com/c/titanic).
+Prediction of likelihood of survival of passengers and obtain an accuracy of 81.34%,within top 7%.Used several models like Logistic Regression,SVM and Decision tress,but after performing data analysis and feature extraction its seems RandomForest Classifier results performed well on all evaluation metrics
 
-Titanic: Machine Learning from Disaster is a knowledge competition on Kaggle. Many people started practicing in machine learning with this competition, so did I. This is a binary classification problem: based on information about Titanic passengers we predict whether they survived or not. General description and data are available on [Kaggle](https://www.kaggle.com/c/titanic).
-Titanic dataset provides interesting opportunities for feature engineering.
-
-### Ghouls, Goblins, and Ghosts... Boo!
-
-[Github](https://github.com/Erlemar/Erlemar.github.io/blob/master/Notebooks/GGG.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/Erlemar/Erlemar.github.io/blob/master/Notebooks/GGG.ipynb)
-
-Ghouls, Goblins, and Ghosts... Boo! is a knowledge competition on Kaggle. This is a multiple classification problem: based on information about monsters we predict their types. A fun competition for Halloween. General description and data are available on [Kaggle](https://www.kaggle.com/c/ghouls-goblins-and-ghosts-boo).
-This dataset has little number of samples, so careful feature selection and model ensemble are necessary for high accuracy.
-
-### Otto Group Product Classification Challenge
-
-[Github](https://github.com/Erlemar/Erlemar.github.io/blob/master/Notebooks/Otto_Group.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/Erlemar/Erlemar.github.io/blob/master/Notebooks/Otto_Group.ipynb)
-
-Otto Group Product Classification Challenge is a knowledge competition on Kaggle. This is a multiple classification problem. Based on information about products we predict their category. General description and data are available on [Kaggle](https://www.kaggle.com/c/otto-group-product-classification-challenge).
-The data is obfuscated, so the main questionlies in the selection of the model for prediction.
 
 ### Imbalanced classes
 
@@ -53,10 +46,8 @@ In this notebook I try to solve this problem.
 
 ### House Prices: Advanced Regression Techniques
 
-[Github](https://github.com/Erlemar/Erlemar.github.io/blob/master/Notebooks/House_Prices.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/Erlemar/Erlemar.github.io/blob/master/Notebooks/House_Prices.ipynb)
-
 House Prices: Advanced Regression Techniques is a knowledge competition on Kaggle. This is a regression problem: based on information about houses we predict their prices. General description and data are available on [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques).
-The dataset has a lot of features and many missing values. This gives interesting possibilities for feature transformation and data visualization.
+Used Supervised Learning methods to predict Boston house prices. With ensemble modelling and feature engineering my model was finally able to predict prices with high confidence.
 
 ### Loan Prediction
 
@@ -64,13 +55,6 @@ The dataset has a lot of features and many missing values. This gives interestin
 
 Loan Prediction is a knowledge and learning hackathon on Analyticsvidhya. Dream Housing Finance company deals in home loans. Company wants to automate the loan eligibility process (real time) based on customer detail provided while filling online application form. Based on customer's information we predict whether they should receive a loan or not. General description and data are available on [Analyticsvidhya](https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/).
 
-
-### Caterpillar Tube Pricing
-
-[Github](https://github.com/Erlemar/Erlemar.github.io/blob/master/Notebooks/Caterpillar.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/Erlemar/Erlemar.github.io/blob/master/Notebooks/Caterpillar.ipynb)
-
-Caterpillar Tube Pricing is a competition on Kaggle. This is a regression problem: based on information about tube assemblies we predict their prices. General description and data are available on [Kaggle](https://www.kaggle.com/c/caterpillar-tube-pricing).
-Dataset consists of many files, so there is an additional challenge in combining the data snd selecting the features.
 
 ## Natural language processing.
 
