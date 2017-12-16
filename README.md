@@ -1,5 +1,5 @@
 
-<img style="float: middle;" src="ashish1.jpg">Ashish Karel
+<img style="float: right;" src="ashish1.jpg">Ashish Karel
 
 ## About
 Hi there!
