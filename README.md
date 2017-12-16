@@ -1,19 +1,18 @@
-# Portfolio by Ashish Karel
+
+<img style="float: middle;" src="ashish.jpg">Ashish Karel</img>
+<br></p>
 ## About
-<img style="float: right;" src="ashish.jpg">
 Hi there!
-I'm Ashish Karel, prefinal year student at The LNM Institute Of Information Technology.
+I'm Ashish Karel,prefinal year student at The LNM Institute Of Information Technology.
 
 I'm mainly interested in Deep Learning especially in Computer vision and Natural Language Processing.
-Passionate for data, statistics and Machine Learning.If still time persists me, then my next stop is AI(Reinforcement Learaning + multi-agent systems) and cryptocurrency(all hail to Satoshi Nakamoto).
+Passionate for data, statistics and Machine Learning.If still time persists me,then my next stop is AI(Reinforcement Learaning + multi-agent systems) and cryptocurrency(all hail to Satoshi Nakamoto).
 
 ## Group projects.
 
 ### Institute Map
 
 Every year parents arrives at LNMIIT to get their childrens enrolled,being a vast campus of 100 acres with huge infrastructure certainly arises problems.Peoples during their first visits tend to get lost or could not locate certain place.In this project we collected data of 7 different locations of LNMIIT, trained on different classifiers, and deployed an app on [heoku](https://herokuapp.com).With this app, user just need to input its surrounding image, and it will recognises the input image with the ML code running on servers.Then they will be directed to LNMIIT map with their current location, user can also seek route between two location on the map.
-
-### 
 
 
 ### Handwritten digit recognition
