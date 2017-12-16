@@ -1,6 +1,6 @@
 
-<img style="float: middle;" src="ashish.jpg">Ashish Karel</img>
-<br></p>
+<img style="float: middle;" src="ashish1.jpg">Ashish Karel
+
 ## About
 Hi there!
 I'm Ashish Karel,prefinal year student at The LNM Institute Of Information Technology.
