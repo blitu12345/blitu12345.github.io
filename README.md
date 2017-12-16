@@ -2,7 +2,7 @@
 
 ## About
 <img style="float: left;" src="ashish1.jpg">
-<b>font size="6"Ashish Karel</b>
+<b>font size="6"Ashish Karel</b></font>
 <br><br>
 I'm prefinal year student at The LNM Institute Of Information Technology.
 
