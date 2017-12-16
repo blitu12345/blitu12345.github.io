@@ -1,7 +1,7 @@
 # Portfolio by Ashish Karel
 
 ## About
-<img style="float: right;" src="ashish1.jpg">
+<img style="float: left;" src="ashish1.jpg">
 <b>Ashish Karel</b>
 I'm prefinal year student at The LNM Institute Of Information Technology.
 
