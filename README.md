@@ -3,6 +3,7 @@
 ## About
 <img style="float: left;" src="ashish1.jpg">
 <b>Ashish Karel</b>
+<br><br>
 I'm prefinal year student at The LNM Institute Of Information Technology.
 
 I'm mainly interested in Deep Learning especially in Computer vision and Natural Language Processing.
