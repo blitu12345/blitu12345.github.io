@@ -1,9 +1,9 @@
-
-<img style="float: right;" src="ashish1.jpg">Ashish Karel
+# Portfolio by Ashish Karel
 
 ## About
-Hi there!
-I'm Ashish Karel,prefinal year student at The LNM Institute Of Information Technology.
+<img style="float: right;" src="ashish1.jpg">
+<b>Ashish Karel</b>
+I'm prefinal year student at The LNM Institute Of Information Technology.
 
 I'm mainly interested in Deep Learning especially in Computer vision and Natural Language Processing.
 Passionate for data, statistics and Machine Learning.If still time persists me,then my next stop is AI(Reinforcement Learaning + multi-agent systems) and cryptocurrency(all hail to Satoshi Nakamoto).
