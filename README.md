@@ -54,3 +54,20 @@ Used Supervised Learning methods to predict Boston house prices. With ensemble m
 
 ### Cats vs Dogs
 In this [competition](https://www.kaggle.com/c/dogs-vs-cats), we had to write an algorithm to classify whether images contain either a dog or a cat.I have implemented a VGG net from scratch and also used pretrained weights in keras to solve this problem.Code can be found [here](https://bitbucket.org/blitu12345/deepcodesbase/src/b18ad9bfe9b7280fe694791f085dfcfbd69cd1cb/CatsandDogs/?at=master).
+
+# Experiences
+
+### Deep learning Engineer Intern at SilverSparro, Gurgaon.
+Silversparro provides Artificial intelligence solutions to enterprises, retailers and distributors.I worked on :-
+1. implementing state of the art research papers for image segmentation, localization and detection to improve existing OCR models.
+2. data analysis, preprocessing on data(>40gb) and build ML model.
+3. speech recognition for a large e-commerce company on customer service recordings.
+
+### Talk on Mask-RCNN on Image-Segmentation.
+I had delivered a talk on State of the art image segmentation paper published by Facebook's FAIR Mask-RCNN.Report can be found [here](https://docs.google.com/presentation/d/13tW8yzSrJy5EglmkPqpKS_Fg5GMvY77CmsbAzdGm4n0/edit?usp=sharing).
+
+### NVIDIA Developer Conference
+Participated at NVIDIA's developer conference held at mumbai.THis conference was aimed to bring all developers together and discuss current technologies in Deep learning and how industries utilises them.
+
+### Sub-coordinator Of ML/DL/DS club 
+I'm currently acting sub-coodinator of ML/DS/DL of CYBROS a technical community club at LNMIIT, helping students at LNMIIT to advance in machine learning field.
