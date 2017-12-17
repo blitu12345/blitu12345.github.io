@@ -9,18 +9,15 @@ I'm prefinal year student at The LNM Institute Of Information Technology.
 I'm mainly interested in Deep Learning especially in Computer vision and Natural Language Processing.
 Passionate for data, statistics and Machine Learning.If still time persists me,then my next stop is AI(Reinforcement Learaning + multi-agent systems) and cryptocurrency(all hail to Satoshi Nakamoto).
 
-## Group projects.
-
 ### Institute Map
 
-Every year parents arrives at LNMIIT to get their childrens enrolled,being a vast campus of 100 acres with huge infrastructure certainly arises problems.Peoples during their first visits tend to get lost or could not locate certain place.In this project we collected data of 7 different locations of LNMIIT, trained on different classifiers, and deployed an app on [heoku](https://herokuapp.com).With this app, user just need to input its surrounding image, and it will recognises the input image with the ML code running on servers.Then they will be directed to LNMIIT map with their current location, user can also seek route between two location on the map.
+Every year parents arrives at LNMIIT to get their childrens enrolled,being a vast campus of 100 acres with huge infrastructure certainly arises problems.Peoples during their first visits tend to get lost or could not locate certain place.In this project we collected data of 7 different locations of LNMIIT, trained on different classifiers, and deployed an app on [heroku](https://herokuapp.com).With this app, user just need to input its surrounding image, and it will recognises the input image with the ML code running on servers.Then they will be directed to LNMIIT map with their current location, user can also seek route between two location on the map.This is a detailed [report](https://docs.google.com/document/d/1hKfg-HvGp5Ig-I96A8APbMGFkrJR_WZpYwJ2GV0ABY4/edit?usp=sharing).
 
+### Shallow NN code from scratch
+Implemented neural-network code from scratch using python.When tested on MNIST dataset my 2 layer network attained an accuracy of ~92%.You can find the implemented code [here](https://github.com/blitu12345/kaggle/blob/master/MNIST).
 
-### Handwritten digit recognition
-
-This is my own project using image recognition methods in practice. This is a site (also works on mobile) where user can draw a digit, and machine learning models (FNN and CNN) will try to recognize it. After than models can use the drawn digit for training to improve their accuracy. Live version is [here](https://digits-draw-recognize.herokuapp.com/). The code can be found [here](https://github.com/Erlemar/digit-draw-recognize).
-
-## Classification problems.
+### HandWritten Digit Recognition
+Digit Recognition challenge on [kaggle](https://www.kaggle.com/c/digit-recognizer) is considered to be base model for beginners to learn about computer vision.So did I,whereas instead of using any deep learning frame work i used Machine learning multi class classification models like Logistic regression, SVM, KNN with help of sklearn.Code can be found [here](https://github.com/blitu12345/kaggle/tree/master/digitRecognition).
 
 ### Titanic: Machine Learning from Disaster
 
