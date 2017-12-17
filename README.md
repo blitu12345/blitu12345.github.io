@@ -3,11 +3,13 @@
 ## About
 <img style="float: left;" src="ashish1.jpg">
 <b>ASHISH KAREL</b>
-<br><br>
+
 I'm prefinal year student at The LNM Institute Of Information Technology.
 
 I'm mainly interested in Deep Learning especially in Computer vision and Natural Language Processing.
 Passionate for data, statistics and Machine Learning.If still time persists me,then my next stop is AI(Reinforcement Learaning + multi-agent systems) and cryptocurrency(all hail to Satoshi Nakamoto).
+<br><br>
+# Projects
 
 ### Institute Map
 
@@ -24,14 +26,6 @@ Titanic: Machine Learning from Disaster is a knowledge competition on Kaggle.
 Binary classification problem, based on information about Titanic passengers task is to predict whether a person on titanic survived or not.General description and data are available on [Kaggle](https://www.kaggle.com/c/titanic).
 Prediction of likelihood of survival of passengers and obtain an accuracy of 81.34%,within top 7%.Used several models like Logistic Regression,SVM and Decision tress,but after performing data analysis and feature extraction its seems RandomForest Classifier results performed well on all evaluation metrics.Code can be found [here](https://github.com/blitu12345/kaggle/tree/master/titanic).
 
-### The Cab Service
-Contest held on [hackerearth](https://www.hackerearth.com/challenge/competitive/machine-learning-indiahacks-2017/), aimed to help company predict the trip fare amount using modern Machine Learning approaches.Code can be found [here](help company to predict the trip fare amount)
-
-### House Prices: Advanced Regression Techniques
-
-House Prices: Advanced Regression Techniques is a knowledge competition on Kaggle. This is a regression problem: based on information about houses we predict their prices. General description and data are available on [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques).
-Used Supervised Learning methods to predict Boston house prices. With ensemble modelling and feature engineering my model was finally able to predict prices with high confidence.
-
 ### Loan Prediction
 To help Indessa Bank identify default members(unable to satisfy terms of loan).We were provided with dataset containing 1 lakh members detail and with 45 features each.While developing my model, i have applied feature engineering, statistical test (like chi-square test ,t-test and Pearson correlation),visualisation techniques(box plot,scatter plot,histogram and bar chart) and finally applied some fine ML algorithms(Logistic Regression,Random Forest and XGBoost).I was able to secure a rank within top 4% of users.Code canbe found [here](https://github.com/blitu12345/-Bank-Fears-Loanliness)
 
@@ -40,7 +34,16 @@ To help Indessa Bank identify default members(unable to satisfy terms of loan).W
 Clustering is an approach to unsupervised machine learning. Clustering with KMeans is one of algorithms of clustering.But to clustering a variety of species requires higher understanding of machine learning algos.I have used variuos approaches like elbow methoda and hiearchical clustering methods to understand this high dimensional data.Implementation is available [here](https://github.com/blitu12345/Cluster-Species).
 
 ### Content-based recommender system 
-Implemented a content based recommender system to recoomend genre, books for user for a typical bookstore website.Code can be found [here](https://github.com/blitu12345/Recommender-system)
+Implemented a content based recommender system to recoomend genre, books for user for a typical bookstore website.Code can be found [here](https://github.com/blitu12345/Recommender-system).
+
+### The Cab Service
+Contest held on [hackerearth](https://www.hackerearth.com/challenge/competitive/machine-learning-indiahacks-2017/), aimed to help company predict the trip fare amount using modern Machine Learning approaches.Code can be found [here](help company to predict the trip fare amount)
+
+### House Prices: Advanced Regression Techniques
+
+House Prices: Advanced Regression Techniques is a knowledge competition on Kaggle. This is a regression problem: based on information about houses we predict their prices. General description and data are available on [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques).
+Used Supervised Learning methods to predict Boston house prices. With ensemble modelling and feature engineering my model was finally able to predict prices with high confidence.
+
 
 ### DeepLearning Implementations with Tensorflow and Pytorch
 1. Handwritten digit recognition on MNIST implemented using tensorflow.Code can be found [here](https://github.com/blitu12345/Code-With-DL/tree/master/tensorflow/Convnets)
