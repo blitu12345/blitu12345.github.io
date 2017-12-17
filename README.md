@@ -39,5 +39,11 @@ To help Indessa Bank identify default members(unable to satisfy terms of loan).W
 
 Clustering is an approach to unsupervised machine learning. Clustering with KMeans is one of algorithms of clustering.But to clustering a variety of species requires higher understanding of machine learning algos.I have used variuos approaches like elbow methoda and hiearchical clustering methods to understand this high dimensional data.Implementation is available [here](https://github.com/blitu12345/Cluster-Species).
 
-### content-based recommender system 
+### Content-based recommender system 
 Implemented a content based recommender system to recoomend genre, books for user for a typical bookstore website.Code can be found [here](https://github.com/blitu12345/Recommender-system)
+
+### DeepLearning Implementations
+1. Handwritten digit recognition on MNIST implemented using tensorflow.Code can be found [here](https://github.com/blitu12345/Code-With-DL/tree/master/tensorflow/Convnets)
+2. Implemented logistic regression using Tensorflow.Code can be found [here](https://github.com/blitu12345/Code-With-DL/tree/master/tensorflow/logistic%20regression%20examples)
+3. Implemented linear regression using Tensorflow. Code can be found [here](https://github.com/blitu12345/Code-With-DL/tree/master/tensorflow/linear_regression_examples)
+4. Implemented Shallow neural network in pytorch [here](https://github.com/blitu12345/Code-With-DL/tree/master/pytorch)
