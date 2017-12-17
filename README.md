@@ -2,13 +2,13 @@
 
 ## About
 <img style="float: left;" src="ashish1.jpg">
+<br><br>
 <b>ASHISH KAREL</b>
 
 I'm prefinal year student at The LNM Institute Of Information Technology.
 
 I'm mainly interested in Deep Learning especially in Computer vision and Natural Language Processing.
 Passionate for data, statistics and Machine Learning.If still time persists me,then my next stop is AI(Reinforcement Learaning + multi-agent systems) and cryptocurrency(all hail to Satoshi Nakamoto).
-<br><br>
 <br><br>
 # Projects
 
