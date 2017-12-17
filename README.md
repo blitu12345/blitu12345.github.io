@@ -42,8 +42,11 @@ Clustering is an approach to unsupervised machine learning. Clustering with KMea
 ### Content-based recommender system 
 Implemented a content based recommender system to recoomend genre, books for user for a typical bookstore website.Code can be found [here](https://github.com/blitu12345/Recommender-system)
 
-### DeepLearning Implementations
+### DeepLearning Implementations with Tensorflow and Pytorch
 1. Handwritten digit recognition on MNIST implemented using tensorflow.Code can be found [here](https://github.com/blitu12345/Code-With-DL/tree/master/tensorflow/Convnets)
 2. Implemented logistic regression using Tensorflow.Code can be found [here](https://github.com/blitu12345/Code-With-DL/tree/master/tensorflow/logistic%20regression%20examples)
 3. Implemented linear regression using Tensorflow. Code can be found [here](https://github.com/blitu12345/Code-With-DL/tree/master/tensorflow/linear_regression_examples)
-4. Implemented Shallow neural network in pytorch [here](https://github.com/blitu12345/Code-With-DL/tree/master/pytorch)
+4. Implemented Shallow neural network in pytorch.Code can be found [here](https://github.com/blitu12345/Code-With-DL/tree/master/pytorch).
+
+### Cats vs Dogs
+In this [competition](https://www.kaggle.com/c/dogs-vs-cats), we had to write an algorithm to classify whether images contain either a dog or a cat.I have implemented a VGG net from scratch and also used pretrained weights in keras to solve this problem.Code can be found [here](https://bitbucket.org/blitu12345/deepcodesbase/src/b18ad9bfe9b7280fe694791f085dfcfbd69cd1cb/CatsandDogs/?at=master).
