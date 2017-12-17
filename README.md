@@ -4,7 +4,7 @@
 <img style="float: left;" src="ashish1.jpg">
 <br><br>
 <b>ASHISH KAREL</b>
-<b>ashish dot karel dot y15 at lnmiit dot ac dot in</b>
+<br><b>ashish dot karel dot y15 at lnmiit dot ac dot in</b>
 
 I'm prefinal year student at The LNM Institute Of Information Technology.
 
