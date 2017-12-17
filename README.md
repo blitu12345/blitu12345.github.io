@@ -20,26 +20,12 @@ Implemented neural-network code from scratch using python.When tested on MNIST d
 Digit Recognition challenge on [kaggle](https://www.kaggle.com/c/digit-recognizer) is considered to be base model for beginners to learn about computer vision.So did I,whereas instead of using any deep learning frame work i used Machine learning multi class classification models like Logistic regression, SVM, KNN with help of sklearn.Code can be found [here](https://github.com/blitu12345/kaggle/tree/master/digitRecognition).
 
 ### Titanic: Machine Learning from Disaster
-
 Titanic: Machine Learning from Disaster is a knowledge competition on Kaggle.
 Binary classification problem, based on information about Titanic passengers task is to predict whether a person on titanic survived or not.General description and data are available on [Kaggle](https://www.kaggle.com/c/titanic).
-Prediction of likelihood of survival of passengers and obtain an accuracy of 81.34%,within top 7%.Used several models like Logistic Regression,SVM and Decision tress,but after performing data analysis and feature extraction its seems RandomForest Classifier results performed well on all evaluation metrics
+Prediction of likelihood of survival of passengers and obtain an accuracy of 81.34%,within top 7%.Used several models like Logistic Regression,SVM and Decision tress,but after performing data analysis and feature extraction its seems RandomForest Classifier results performed well on all evaluation metrics.Code can be found [here](https://github.com/blitu12345/kaggle/tree/master/titanic).
 
-
-### Imbalanced classes
-
-[Github](https://github.com/Erlemar/Erlemar.github.io/blob/master/Notebooks/Imbalanced.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/Erlemar/Erlemar.github.io/blob/master/Notebooks/Imbalanced.ipynb)
-
-In real world it is common to meet data in which some classes are more common and others are rarer. In case of a serious disbalance prediction rare classes could be difficult using standard classification methods. In this notebook I analyse such a situation. I can't share the data, used in this analysis.
-
-### Bank card activations
-
-[Github](https://github.com/Erlemar/Erlemar.github.io/blob/master/Notebooks/Card_activation.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/Erlemar/Erlemar.github.io/blob/master/Notebooks/Card_activation.ipynb)
-
-Banks strive to increase the efficiency of their contacts with customers. One of the areas which require this is offering new products to existing clients (cross-selling). Instead of offering new products to all clients, it is a good idea to predict the probability of a positive response. Then the offers could be sent to those clients, for whom the probability of response is higher than some threshold value.
-In this notebook I try to solve this problem.
-
-## Regression problems.
+### The Cab Service
+Contest held on [hackerearth](https://www.hackerearth.com/challenge/competitive/machine-learning-indiahacks-2017/), aimed to help company predict the trip fare amount using modern Machine Learning approaches.Code can be found [here](help company to predict the trip fare amount)
 
 ### House Prices: Advanced Regression Techniques
 
@@ -47,68 +33,11 @@ House Prices: Advanced Regression Techniques is a knowledge competition on Kaggl
 Used Supervised Learning methods to predict Boston house prices. With ensemble modelling and feature engineering my model was finally able to predict prices with high confidence.
 
 ### Loan Prediction
+To help Indessa Bank identify default members(unable to satisfy terms of loan).We were provided with dataset containing 1 lakh members detail and with 45 features each.While developing my model, i have applied feature engineering, statistical test (like chi-square test ,t-test and Pearson correlation),visualisation techniques(box plot,scatter plot,histogram and bar chart) and finally applied some fine ML algorithms(Logistic Regression,Random Forest and XGBoost).I was able to secure a rank within top 4% of users.Code canbe found [here](https://github.com/blitu12345/-Bank-Fears-Loanliness)
 
-[Github](https://github.com/Erlemar/Erlemar.github.io/blob/master/Notebooks/Loan_Prediction.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/Erlemar/Erlemar.github.io/blob/master/Notebooks/Loan_Prediction.ipynb)
+### Clustering-species
 
-Loan Prediction is a knowledge and learning hackathon on Analyticsvidhya. Dream Housing Finance company deals in home loans. Company wants to automate the loan eligibility process (real time) based on customer detail provided while filling online application form. Based on customer's information we predict whether they should receive a loan or not. General description and data are available on [Analyticsvidhya](https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/).
+Clustering is an approach to unsupervised machine learning. Clustering with KMeans is one of algorithms of clustering.But to clustering a variety of species requires higher understanding of machine learning algos.I have used variuos approaches like elbow methoda and hiearchical clustering methods to understand this high dimensional data.Implementation is available [here](https://github.com/blitu12345/Cluster-Species).
 
-
-## Natural language processing.
-
-### Bag of Words Meets Bags of Popcorn
-
-[Github](https://github.com/Erlemar/Erlemar.github.io/blob/master/Notebooks/Bag_of_Words.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/Erlemar/Erlemar.github.io/blob/master/Notebooks/Bag_of_Words.ipynb)
-
-Bag of Words Meets Bags of Popcorn is a sentimental analysis problem. Based on texts of reviews we predict whether they are positive or negative. General description and data are available on [Kaggle](https://www.kaggle.com/c/word2vec-nlp-tutorial).
-The data provided consists of raw reviews and class (1 or 2), so the main part is cleaning the texts.
-
-### NLP with Python: exploring Fate/Zero
-
-[Github](https://github.com/Erlemar/Erlemar.github.io/blob/master/Notebooks/Fate_Zero_explore.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/Erlemar/Erlemar.github.io/blob/master/Notebooks/Fate_Zero_explore.ipynb)
-
-Natural language processing in machine learning helps to accomplish a variety of tasks, one of which is extracting information from texts. This notebook is an overview of several text exploration methods using English translation of Japanese light novel "Fate/Zero" as an example.
-
-### NLP. Text generation with Markov chains
-
-[Github](https://github.com/Erlemar/Erlemar.github.io/blob/master/Notebooks/Markov_chain_nlp.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/Erlemar/Erlemar.github.io/blob/master/Notebooks/Markov_chain_nlp.ipynb)
-
-This notebook shows how a new text can be generated based on a given corpus using an idea of Markov chains. I start with simple first-order chains and with each step improve model to generate better text.
-
-### NLP. Text summarization
-
-[Github](https://github.com/Erlemar/Erlemar.github.io/blob/master/Notebooks/Summarize.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/Erlemar/Erlemar.github.io/blob/master/Notebooks/Summarize.ipynb)
-
-This notebook shows how text can be summarized choosing several most important sentences from the text. I explore various methods of doing this based on a news article.
-
-## Clustering
-
-### Clustering with KMeans
-
-[Github](https://github.com/Erlemar/Erlemar.github.io/blob/master/Notebooks/Clustering_with_K-Means.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/Erlemar/Erlemar.github.io/blob/master/Notebooks/Clustering_with_K-Means.ipynb)
-
-Clustering is an approach to unsupervised machine learning. Clustering with KMeans is one of algorithms of clustering. in this notebook I'll demonstrate how it works. Data used is about various types of seeds and their parameters. It is available [here](https://archive.ics.uci.edu/ml/datasets/seeds).
-
-## Neural networks
-
-### Feedforward neural network with regularization
-
-[Github](https://github.com/Erlemar/Erlemar.github.io/blob/master/Notebooks/NN_GGG.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/Erlemar/Erlemar.github.io/blob/master/Notebooks/NN_GGG.ipynb)
-
-This is a simple example of feedforward neural network with regularization. It is based on Andrew Ng's lectures on Coursera. I used data from Kaggle's challenge "Ghouls, Goblins, and Ghosts... Boo!", it is available [here](https://www.kaggle.com/c/ghouls-goblins-and-ghosts-boo).
-
-## Data exploration and analysis
-
-### Telematic data
-
-[Github](https://github.com/Erlemar/Erlemar.github.io/blob/master/Notebooks/Devices_analysis.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/Erlemar/Erlemar.github.io/blob/master/Notebooks/Devices_analysis.ipynb)
-
-I have a dataset with telematic information about 10 cars driving during one day. I visualise data, search for insights and analyse the behavior of each driver. I can't share the data, but here is the notebook. I want to notice that folium map can't be rendered by native github, but nbviewer.jupyter can do it.
-
-## Recommendation systems.
-
-### Collaborative filtering
-
-[Github](https://github.com/Erlemar/Erlemar.github.io/blob/master/Notebooks/Collaborative_filtering.ipynb) [nbviewer](http://nbviewer.jupyter.org/github/Erlemar/Erlemar.github.io/blob/master/Notebooks/Collaborative_filtering.ipynb)
-
-Recommenders are systems, which predict ratings of users for items. There are several approaches to build such systems and one of them is Collaborative Filtering. 
-This notebook shows sevуral examples of collaborative filtering algorithms.
+### content-based recommender system 
+Implemented a content based recommender system to recoomend genre, books for user for a typical bookstore website.Code can be found [here](https://github.com/blitu12345/Recommender-system)
