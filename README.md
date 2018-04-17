@@ -1,7 +1,7 @@
 # Portfolio by Ashish Karel
 
 ## About
-<img style="width: 50px; float: left;" src="ashish.jpg"/>
+<img style="float: left;" src="ashish.jpg" width="10" height="10" />
 <br><br>
 <b>ASHISH KAREL</b>
 <br><b>[ashishbkarel at gmail dot com]</b>
