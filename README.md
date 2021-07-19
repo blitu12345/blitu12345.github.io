@@ -2,15 +2,17 @@
 
 ## About
 <img style="float: left;" src="IMG_20180521_164015.jpg" width="400" height="400" />
+PLEASE NOTE: THIS IS NOT YET UPDATED AND CONTAINS PROJECTS WHICH I COMPLETED WHILE IN COLLEGE FOR LEARNING PURPOSE
+I'm currently working as freelancer and actively looking for a full-time oppurtunity!
+
 <br><br>
 <b>ASHISH KAREL</b>
 <br><b>[ashishbkarel at gmail dot com]</b>
 <br><b>[ashish dot karel dot y15 at lnmiit dot ac dot in]</b>
 
-I'm prefinal year student at The LNM Institute Of Information Technology.
-
 I'm mainly interested in Deep Learning especially in Computer vision and Natural Language Processing.
 Passionate for data, statistics and Machine Learning.If still time persists me,then my next stop is AI(Reinforcement Learaning + multi-agent systems) and cryptocurrency(all hail to Satoshi Nakamoto).
+
 <br><br>
 # Projects
 
