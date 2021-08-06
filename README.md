@@ -152,7 +152,7 @@ ________________________________________________________________________________
 -> Used mobilenetv2+ssd for face detection and mobilenetv2 for multilabel classification
 -> Tech-stack: python, tensorflow, colab, numpy
 
-** Clustering-species
+**Clustering-species
 
 -> To cluster a variety of species required complex clustering algorithms and simpler KMeans won't be effective.
 -> I have used variuos approaches like elbow methods and hiearchical clustering methods.
@@ -160,7 +160,7 @@ ________________________________________________________________________________
 -> Implementation is available [here](https://github.com/blitu12345/Cluster-Species).
 
 
-** Content-based recommender system 
+**Content-based recommender system 
 -> Implemented a content based recommender system to recoomend genre, books for user for a typical bookstore website.
 -> Tech-stack: numpy, python, linux, sklearn, pandas
 -> Code can be found [here](https://github.com/blitu12345/Recommender-system).
