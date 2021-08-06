@@ -1,5 +1,24 @@
-# About
+# Portfolio
+<p align="center">
+  
+<img src="IMG_20180521_164015.jpg" height=300></p>
+  
+Hi, my name is Ashish Karel.
 
+
+
+<p>
+I am an avid manga reader, sci-fi reader, and loves to run my current PA is 2.1km/7minutes. I love to learn about how things work, whether that be studying good coding practices, engineering techniques, or machine learning methods. Much of my experience revolves around building machine learning applications, but I also strive to gain a deeper understanding of the world so that I can expand my skillset and build new and amazing things.
+</p>
+
+
+# Get to Know Me 
+
+### My Professional Experience
+<p align="center">
+<a href="https://www.linkedin.com/in/ashishkarel/"><img src="images/Linkedin.PNG"></a></p>
+  
+<p>
 Computer Vision engineer with extensive experiecne of around 2 years in designing and developing multiple large-scale products in AI, Computer Vision, Machine Learning, Deep Learning domain, in an end-to-end manner.
 
 As a Pattern Recognition enthusiast,I also have some experience in NLP(Natural Language Processing) and ASR(Automatic Speech Recognition).
@@ -21,8 +40,10 @@ As a Pattern Recognition enthusiast,I also have some experience in NLP(Natural L
 My research papers addresses the problem of activity recognition in cricket trimmed videos, and describes how we used semi-supervised approach and intergrating ideas from NLP and image processing to tackle the problem. 
 
 Having worked on multiple developemnt and research projects, I find myself well equipped with research and project management skills that are necessary for AI based roles, and hence, I'm looking forward for such roles where I can create a positive impact and solve real world problems.
+</p>
 
-_________________________________________________________________________________________________________________________________________________
+<hr>
+
 # Experience
 
 ## KritiKal Solutions
@@ -134,7 +155,8 @@ ________________________________________________________________________________
 	*  Report can be found [here](https://docs.google.com/presentation/d/13tW8yzSrJy5EglmkPqpKS_Fg5GMvY77CmsbAzdGm4n0/edit?usp=sharing).
 
 
-_________________________________________________________________________________________________________________________________________________
+<hr>
+
 # Projects
 
 
@@ -167,7 +189,8 @@ ________________________________________________________________________________
 	*  Implemented Shallow neural network in pytorch.Code can be found [here](https://github.com/blitu12345/Code-With-DL/tree/master/pytorch).
 	*  Tech-stack: numpy, python, linux, tensorflow, pytorch, AWS
 
-_________________________________________________________________________________________________________________________________________________
+<hr>
+
 
 
 ## The LNM Institute Of Information Technology
@@ -186,7 +209,8 @@ ________________________________________________________________________________
 	*  Tech-stack: numpy, python, linux
 	*  On MNIST dataset my 2 layered network attained an accuracy of ~92%.
 
-_________________________________________________________________________________________________________________________________________________
+<hr>
+
 
 ## Kaggle 
 
@@ -216,7 +240,8 @@ ________________________________________________________________________________
 	*  Used Supervised Learning methods to predict Boston house prices. With ensemble modelling and feature engineering my model was finally able to predict prices with high confidence.
 	*  Tech-stack: numpy, python, linux, sklearn, pandas
 
-_________________________________________________________________________________________________________________________________________________
+<hr>
+
 
 ## Hackerearth
 
