@@ -25,8 +25,9 @@ Having worked on multiple developemnt and research projects, I find myself well 
 _________________________________________________________________________________________________________________________________________________
 # Experience
 
-KritiKal Solutions
+## KritiKal Solutions
 
+### Computer Vision Engineer .
 * Document-image OCR and retrieval based system using image processing and tesseract
 	* Task was to extract information from NCERT textbook images and retrieve the page information for further use case.
 	*  Users were mostly indian school kids or parents doing self study.
@@ -57,7 +58,7 @@ KritiKal Solutions
 	*  Spoof classifier was trained using SVM on texture features extracted using LBP.
 	*  Tech-stack: darknet, c++, python, linux, windows, Opencv
 
-Software Engineer Internship.
+### Computer Vision Trainee.
 
 * Displaction calculation of washing machine.
 	*  Required to predict the displacment within -+5mm of actual displacement.
@@ -85,13 +86,15 @@ Software Engineer Internship.
 	*  Image processing algorithms such as LBP for tone and texture score, edge detection and fitting to polynomial function for wrinkles score and contur based detection for marks or non-uniformity score in skin.
 
 
-* Sub-coordinator Of Data-Science club 
+## LNMIIT
+## Sub-coordinator Of Data-Science club 
 	*  I was a sub-coodinator of Data-Science of CYBROS(a technical community club at LNMIIT), introducing and guiding students at LNMIIT in Data Science and sub fields.
 
 
-Cell Propulsion Limited
+## Cell Propulsion Limited
 
-* Python Developer Intern. 
+### Python Developer Intern.
+* Sensor Fusion
 	*  Part of Computer Vision team on Self Driving Car.
 	*  Setup Texas instrument's radar sensor in my laptop and processed the binary data into visualization plot
 	*  Performed clustering of detection to decrease the number of false detection (using linear kalman filter and dbscan)
@@ -99,8 +102,8 @@ Cell Propulsion Limited
 	*  Proposed 12 radar required for covering detection from all directions
 	*  Tech-stack: Python, Kalman filter, linux, Texas instruement radar sensor
 
-LegalHub Technologies Pvt. Ltd.
-NLP Engineer Intern.
+## LegalHub Technologies Pvt. Ltd.
+### NLP Engineer Intern.
 
 * Document Retrieval System
 	*  Developed Search Engine for Indian Law DataSet.
@@ -109,20 +112,24 @@ NLP Engineer Intern.
 	*  Implemented extraction based summarizer and query based summarizer .
 	*  Implemented filtering on search results and deployed an overall system on localhost.
 
-* NVIDIA Developer Conference 2019
+## NVIDIA Developer Conference 2019
+* Participation as a Student
 	*  Participated at NVIDIA's developer conference held at mumbai.
 	*  This conference was aimed to bring all developers together and discuss current technologies in Deep learning and how industries utilises them.
 	*  Tech-stack: python, keras, linux, AWS
 
-Silversparro Technologies Pvt. Ltd.
+## Silversparro Technologies Pvt. Ltd.
 
-* Deep Learning Engineer Intern.
-	*  Worked on Masked-RCNN to segement text lines from the reciept images to improve existing OCR model.
-	*  Worked on speech to text for a large e-commerce company on customer service recordings. .
-	*  Worked on voot website customer data to predict the customer engagement: performed text analysis and cleaning(>40GB) and initial model creation
+### Deep Learning Engineer Intern.
+*  Worked on Masked-RCNN to segement text lines from the reciept images to improve existing OCR model.
+	*  Tech-stack: python, tensorflow, keras, AWS
+*  Worked on speech to text for a large e-commerce company on customer service recordings.
+	*  Tech-stack: python, tensorflow, keras, sst engines, AWS
+*  Worked on voot website customer data to predict the customer engagement: performed text analysis and cleaning(>40GB) and initial model creation
 	*  Tech-stack: python, tensorflow, keras, sst engines, AWS
 
-* Talk on Mask-RCNN on Image-Segmentation.
+## Talk on Mask-RCNN on Image-Segmentation.
+* Particiapted as a Presenter
 	*  I had delivered a talk on Masked-RCNN at Delhi's Data Science Meetup.
 	*  Report can be found [here](https://docs.google.com/presentation/d/13tW8yzSrJy5EglmkPqpKS_Fg5GMvY77CmsbAzdGm4n0/edit?usp=sharing).
 
@@ -211,7 +218,7 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________________________________________________
 
-* Hackerearth
+## Hackerearth
 
 * HackCovd 2.0(Hackathon)
 	*  Created a real-time desktop integrated with surveillance camera to monitor covid regulations are followed
