@@ -18,13 +18,9 @@ I am an avid manga reader, sci-fi reader, and loves to run my current PA is 2.1k
 <p align="center">
 <a href="https://www.linkedin.com/in/ashish-karel/"><img src="images/Linkedin.PNG"></a></p>
   
-<p>
 Computer Vision engineer with extensive experiecne of around 2 years in designing and developing multiple large-scale products in Computer Vision and Deep Learning domain, in an end-to-end manner.
 
 As a Pattern Recognition enthusiast,I also have some experience in NLP(Natural Language Processing) and ASR(Automatic Speech Recognition).
-</p>
-
-<p>
 
 * Well-versed with python, c, c++, data-structres and algorithms
 * Experienced with frameworks including Pytorch, Tensorflow, Keras
@@ -39,14 +35,10 @@ As a Pattern Recognition enthusiast,I also have some experience in NLP(Natural L
 * Deep Learning           models : VGG-16, Resnet, InceptionNet, Mobilenet, Yolo, ssd-resnet10, ssd-mobilenetv2, U-net, Siamese Network, MaskedRCNN, FlowNet, 
 * Image Processing    algorithms : HoG, SURF, SIFT, LBP, Canny Edge Detector, Optical Flow, Filters, background-subtraction, 
 * Machine Learning    algorithms : SVM, Decision Trees, KMeans, KNN, Dbscan, TF-IDF, LDF, BoV, 
-</p>
-
-<p>
 
 My research papers addresses the problem of activity recognition in cricket trimmed videos, and describes how we used semi-supervised approach and intergrating ideas from NLP and image processing to tackle the problem. 
 
 Having worked on multiple developemnt and research projects, I find myself well equipped with research and project management skills that are necessary for AI based roles, and hence, I'm looking forward for such roles where I can create a positive impact and solve real world problems.
-</p>
 
 <hr>
 
