@@ -40,7 +40,7 @@ Having worked on multiple developemnt and research projects, I find myself well 
 
 # My Professional Experience
 <p align="center">
-<a href="https://www.linkedin.com/in/ashish-karel/"><img src="images/Linkedin.PNG"></a></p>
+<a href="https://www.linkedin.com/in/ashish-karel/"><img src="images/Linkedin.png"></a></p>
 
 
 # Projects
