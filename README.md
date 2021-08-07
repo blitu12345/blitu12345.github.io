@@ -50,10 +50,9 @@ Having worked on multiple developemnt and research projects, I find myself well 
 
 ## Independent Projects
 
-* ***face detection and Mask and Helmet classifiaction***
+* ***[face detection and Mask and Helmet classifiaction](https://colab.research.google.com/drive/1PGOjOOrs4kECVEY69WRAFLfAOC99MnDJ?usp=sharing)***
 	* Classified if construction workers wore helmet and mask 
 	* face detection: mobilenetv2+ssd ; multilabel classification: mobilenetv2
-	* 
 	* Tech-stack: python, tensorflow, colab, numpy
 
 * ***[Clustering-species](https://github.com/blitu12345/Cluster-Species)***
@@ -137,4 +136,3 @@ Having worked on multiple developemnt and research projects, I find myself well 
 	* Tech-stack: numpy, python, linux, sklearn, pandas
 
 <hr>
-
