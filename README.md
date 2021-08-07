@@ -81,7 +81,6 @@ Having worked on multiple developemnt and research projects, I find myself well 
 	* Used nanodet(anchor free detection model) for pedestrain detection
 	* For face detection used resnet10+ssd and mobilenetv2 for mask classification 
 	* Tech-stack: python, pytorch, tensorflow, pyQt5, numpy, linux
-	* Code can be found [where]()
 
 * ***[Loan Prediction](https://github.com/blitu12345/-Bank-Fears-Loanliness)***
 	* To help Indessa Bank identify default members(unable to satisfy terms of loan).
@@ -136,3 +135,4 @@ Having worked on multiple developemnt and research projects, I find myself well 
 	* Tech-stack: numpy, python, linux, sklearn, pandas
 
 <hr>
+
