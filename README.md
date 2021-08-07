@@ -1,7 +1,7 @@
 # Portfolio
 <p align="center">
   
-<img src="new-image.png" height=380 width=380></p>
+<img src="new-image.png" height=360 width=360></p>
   
 Hi, my name is Ashish Karel.
 
