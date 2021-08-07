@@ -51,10 +51,10 @@ Having worked on multiple developemnt and research projects, I find myself well 
 ### Computer Vision Engineer .
 
 <details>
-<summary>
-	
-* ***Document-image OCR and retrieval based system using image processing and tesseract*** </summary>
+<summary> </summary>
 <p>
+
+* ***Document-image OCR and retrieval based system using image processing and tesseract*** 
 	* Task was to extract information from NCERT textbook images and retrieve the page information for further use case.
 	*  Users were mostly indian school kids or parents doing self study.
 	*  Worked on line extraction from books image which sometimes were blurred, tilted, and curved using contour processing
