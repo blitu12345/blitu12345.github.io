@@ -49,8 +49,6 @@ Having worked on multiple developemnt and research projects, I find myself well 
 ## KritiKal Solutions
 
 ### Computer Vision Engineer .
-<p>
-
 * ***Document-image OCR and retrieval based system using image processing and tesseract*** 
 	* Task was to extract information from NCERT textbook images and retrieve the page information for further use case.
 	*  Users were mostly indian school kids or parents doing self study.
@@ -107,7 +105,6 @@ Having worked on multiple developemnt and research projects, I find myself well 
 * ***Grading Skin Health***
 	*  Proposed to predict the health of skin after accounting wrinkles, tone, texture , marks(pimples or lesions)
 	*  Image processing algorithms such as LBP for tone and texture score, edge detection and fitting to polynomial function for wrinkles score and contur based detection for marks or non-uniformity score in skin.
-</p>
 
 ## LNMIIT
 ## Sub-coordinator Of Data-Science club 
