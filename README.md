@@ -50,18 +50,18 @@ Having worked on multiple developemnt and research projects, I find myself well 
 
 ## KritiKal Solutions
 
-### Computer Vision Engineer .
+### Computer Vision Engineer
 <details>
 <summary>* ***Document-image OCR and retrieval based system using image processing and tesseract***</summary>
 <p>
-	* Task was to extract information from NCERT textbook images and retrieve the page information for further use case.
-	*  Users were mostly indian school kids or parents doing self study.
-	*  Worked on line extraction from books image which sometimes were blurred, tilted, and curved using contour processing
-	*  Main hindrance to accurate system were blurred images(motion or focus), white noise or uneven lighting while capturing images.
-	*  Performed quality check using variance of laplacian and deblurring after removing gaussian noise(assumed blur noise to be gaussian)
-	*  OCR was used on all extracted lines from the images and saved text file for retrival.  
-	*  Evaluated tablet which was going to be used for our OCR system, such as focus, exposure, shutter time, frame quality etc and comapred performance of system on normal images and images from tablet.
-	*  Tech-stack: c++, Opencv, python, ocr, linux, windows
+* Task was to extract information from NCERT textbook images and retrieve the page information for further use case.
+*  Users were mostly indian school kids or parents doing self study.
+*  Worked on line extraction from books image which sometimes were blurred, tilted, and curved using contour processing
+*  Main hindrance to accurate system were blurred images(motion or focus), white noise or uneven lighting while capturing images.
+*  Performed quality check using variance of laplacian and deblurring after removing gaussian noise(assumed blur noise to be gaussian)
+*  OCR was used on all extracted lines from the images and saved text file for retrival.  
+*  Evaluated tablet which was going to be used for our OCR system, such as focus, exposure, shutter time, frame quality etc and comapred performance of system on normal images and images from tablet.
+*  Tech-stack: c++, Opencv, python, ocr, linux, windows
 </p>
 </details>
 * ***Document-image OCR and retrieval based system using image processing and tesseract***
