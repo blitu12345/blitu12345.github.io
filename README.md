@@ -51,7 +51,6 @@ Having worked on multiple developemnt and research projects, I find myself well 
 ### Computer Vision Engineer .
 
 <details>
-<summary> </summary>
 <p>
 
 * ***Document-image OCR and retrieval based system using image processing and tesseract*** 
@@ -115,7 +114,7 @@ Having worked on multiple developemnt and research projects, I find myself well 
 
 ## LNMIIT
 ## Sub-coordinator Of Data-Science club 
-	*  I was a sub-coodinator of Data-Science of CYBROS(a technical community club at LNMIIT), introducing and guiding students at LNMIIT in Data Science and sub fields.
+*  I was a sub-coodinator of Data-Science of CYBROS(a technical community club at LNMIIT), introducing and guiding students at LNMIIT in Data Science and sub fields.
 
 
 ## Cell Propulsion Limited
