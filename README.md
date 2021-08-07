@@ -49,8 +49,6 @@ Having worked on multiple developemnt and research projects, I find myself well 
 ## KritiKal Solutions
 
 ### Computer Vision Engineer .
-
-<details>
 <p>
 
 * ***Document-image OCR and retrieval based system using image processing and tesseract*** 
@@ -110,7 +108,6 @@ Having worked on multiple developemnt and research projects, I find myself well 
 	*  Proposed to predict the health of skin after accounting wrinkles, tone, texture , marks(pimples or lesions)
 	*  Image processing algorithms such as LBP for tone and texture score, edge detection and fitting to polynomial function for wrinkles score and contur based detection for marks or non-uniformity score in skin.
 </p>
-</details>
 
 ## LNMIIT
 ## Sub-coordinator Of Data-Science club 
