@@ -9,7 +9,7 @@ Hi, my name is Ashish Karel.
 <p>
 I am an avid manga reader, sci-fi reader, and loves to run my current PR is 2.1km/7minutes. I love to learn about how things work, whether that be studying good coding practices, engineering techniques, or Computer Vision methods. 
 
-Much of my experience revolves around building Computer Vision applications, but I also strive to gain a deeper understanding of the world so that I can expand my skillset and build new and amazing things.
+Much of my experience revolves around building Computer Vision and deep learning applications, but I also strive to gain a deeper understanding of the world so that I can expand my skillset and build new and amazing things.
 </p>
 
 
