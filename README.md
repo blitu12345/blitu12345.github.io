@@ -22,6 +22,9 @@ I am an avid manga reader, sci-fi reader, and loves to run my current PA is 2.1k
 Computer Vision engineer with extensive experiecne of around 2 years in designing and developing multiple large-scale products in Computer Vision and Deep Learning domain, in an end-to-end manner.
 
 As a Pattern Recognition enthusiast,I also have some experience in NLP(Natural Language Processing) and ASR(Automatic Speech Recognition).
+</p>
+
+<p>
 
 * Well-versed with python, c, c++, data-structres and algorithms
 * Experienced with frameworks including Pytorch, Tensorflow, Keras
@@ -36,6 +39,9 @@ As a Pattern Recognition enthusiast,I also have some experience in NLP(Natural L
 * Deep Learning           models : VGG-16, Resnet, InceptionNet, Mobilenet, Yolo, ssd-resnet10, ssd-mobilenetv2, U-net, Siamese Network, MaskedRCNN, FlowNet, 
 * Image Processing    algorithms : HoG, SURF, SIFT, LBP, Canny Edge Detector, Optical Flow, Filters, background-subtraction, 
 * Machine Learning    algorithms : SVM, Decision Trees, KMeans, KNN, Dbscan, TF-IDF, LDF, BoV, 
+</p>
+
+<p>
 
 My research papers addresses the problem of activity recognition in cricket trimmed videos, and describes how we used semi-supervised approach and intergrating ideas from NLP and image processing to tackle the problem. 
 
@@ -48,7 +54,7 @@ Having worked on multiple developemnt and research projects, I find myself well 
 
 ## KritiKal Solutions
 
-### Computer Vision Engineer .
+### Computer Vision Engineer
 * ***Document-image OCR and retrieval based system using image processing and tesseract*** 
 	* Task was to extract information from NCERT textbook images and retrieve the page information for further use case.
 	*  Users were mostly indian school kids or parents doing self study.
