@@ -52,7 +52,7 @@ Having worked on multiple developemnt and research projects, I find myself well 
 
 <details>
 <summary>
-
+	
 * ***Document-image OCR and retrieval based system using image processing and tesseract*** </summary>
 <p>
 	* Task was to extract information from NCERT textbook images and retrieve the page information for further use case.
