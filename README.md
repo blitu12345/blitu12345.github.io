@@ -126,8 +126,8 @@ My research papers addresses the problem of activity recognition in cricket trim
 	*  Tech-stack: python, tensorflow, keras, sst engines, AWS
 
 ## LNMIIT
-### Sub-coordinator Of Data-Science club 
-*  I was a sub-coodinator of Data-Science of CYBROS(a technical community club at LNMIIT), introducing and guiding students at LNMIIT in Data Science and sub fields.
+* ***Sub-coordinator Of Data-Science club***
+	*  I was a sub-coodinator of Data-Science of CYBROS(a technical community club at LNMIIT), introducing and guiding students at LNMIIT in Data Science and sub fields.
 
 ## NVIDIA Developer Conference 2019
 * ***Participation as a Student***
