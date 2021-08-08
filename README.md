@@ -31,7 +31,7 @@ As a Pattern Recognition enthusiast,I also have some experience in NLP(Natural L
 
 * **Computer Vision applications** : object detection, object classification, face detection and recognition, handwriting detection, OCR, object tracking ,image search,  motion analysis, keyframe extraction,
 * **NLP             applications** : Information retrieval and summarizer
-* **Deep Learning           models** : VGG-16, Resnet, InceptionNet, Mobilenet, Yolo, ssd-resnet10, ssd-mobilenetv2, U-net, Siamese Network, MaskedRCNN, FlowNet
+* **Deep Learning           models** : VGG-16, Resnet, InceptionNet, Mobilenet, Yolo, Siamese-net, ssd-resnet10, ssd-mobilenetv2, U-net, Siamese Network, MaskedRCNN, FlowNet
 * **Image Processing    algorithms** : HoG, SURF, SIFT, LBP, Canny Edge Detector, Optical Flow, Filters, background-subtraction 
 * **Machine Learning    algorithms** : SVM, Decision Trees, KMeans, KNN, Dbscan, TF-IDF, LDF, BoV
 
