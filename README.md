@@ -76,13 +76,13 @@ Much of my experience revolves around building Computer Vision and deep learning
 * ***3D bone segmentation from MRI images of patients for pre-surgery analysis***
 	*  Client wants us to handle the 3D patients bone segmentation for surgeons to perform virtual operations before operating on patients
 	*  Researched on clients segmentation tool and human autonomy before presenting our solution
-	*  Performed live segmentation in a meeting and fine tuned the results using hyperparameters in the tool
+	*  Performed live segmentation in a meeting and fine tuned the results using hyper-parameters in the tool
 	*  Proposed to supervise more than 10 employees for the task
 	*  tech-stack: MRI scans, windows, segmentation tool
 
 * ***Grading Skin Health***
 	*  Proposed to predict the health of skin after accounting wrinkles, tone, texture , marks(pimples or lesions)
-	*  Image processing algorithms such as LBP for tone and texture score, edge detection and fitting to polynomial function for wrinkles score and contur based detection for marks or non-uniformity score in skin.
+	*  Image processing algorithms such as LBP for tone and texture score, edge detection and fitting to polynomial function for wrinkles score and conture based detection for marks or non-uniformity score in skin.
 
 # Cell Propulsion Limited
 
