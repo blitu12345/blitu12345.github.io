@@ -111,7 +111,7 @@ My research papers addresses the problem of activity recognition in cricket trim
 	*  Methods used: word2vec, doc2vec, LDA, n-gram's, tf-idf
 	*  Tech-stack: python,linux, keras, AWS
 
-* ***Document Summarizer ***
+* ***Document Summarizer***
 	*  Implemented extraction based summarizer and query based summarizer .
 	*  Tech-stack: python, keras, linux, AWS
 
