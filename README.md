@@ -65,11 +65,12 @@ Having worked on multiple developemnt and research projects, I find myself well 
 	* multilabel classification: mobilenetv2, accuracy obtained 82%
 	* Tech-stack: python, tensorflow, colab, numpy
 
-* ***[Institute Map](https://docs.google.com/document/d/1hKfg-HvGp5Ig-I96A8APbMGFkrJR_WZpYwJ2GV0ABY4/edit?usp=sharing)***
+* ***[Institute Map](https://github.com/aviformat/Institute-map-using-DIP)***
 	* Guidance mobile app for people's first visit(like parents, new joinee and admission students) to LNMIIT being a vast campus of 100 acres with huge infrastructure . 
 	* In this project we collected multiple images of 7 different locations of LNMIIT .
 	* With this app, user just need to input its surrounding image, and it will recognises the input image, this can locate and guide user to pinned location in college map.
 	* Api creation using flask, and deployed on heroku .
+	* [Report](https://docs.google.com/document/d/1hKfg-HvGp5Ig-I96A8APbMGFkrJR_WZpYwJ2GV0ABY4/edit?usp=sharing)
 	* Tech-stack: numpy, opencv, sklearn, python, linux, heroku, flask
 
 * [***Cats vs Dogs classifiaction***](https://bitbucket.org/blitu12345/deepcodesbase/src/b18ad9bfe9b7280fe694791f085dfcfbd69cd1cb/CatsandDogs/?at=master)
