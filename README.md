@@ -46,6 +46,10 @@ Having worked on multiple developemnt and research projects, I find myself well 
 <p align="center">
 <a href="https://www.linkedin.com/in/ashish-karel/"><img src="Linkedin.png"></a></p>
 
+# My Research Experience
+<p align="center">
+<a href="https://www.researchgate.net/profile/Ashish-Karel"><img src="Researchgate.png"></a></p>
+
 <hr>
 
 # Projects
