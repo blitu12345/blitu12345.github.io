@@ -16,12 +16,6 @@ Much of my experience revolves around building Computer Vision and deep learning
 
 
 # Get to Know Me 
-  
-Computer Vision engineer with extensive experiecne of around 2 years in designing and developing multiple large-scale products in Computer Vision and Deep Learning domain, in an end-to-end manner.
-
-As a Pattern Recognition enthusiast,I also have some experience in NLP(Natural Language Processing) and ASR(Automatic Speech Recognition).
-My research papers addresses the problem of activity recognition in cricket trimmed videos, and describes how we used semi-supervised approach and intergrating ideas from NLP and image processing to tackle the problem. 
-
 <hr>
 
 
@@ -30,9 +24,9 @@ My research papers addresses the problem of activity recognition in cricket trim
 <a href="https://www.linkedin.com/in/ashish-karel/"><img src="Linkedin.png" height=300 width=800></a></p>
 
 
-## KritiKal Solutions
+# KritiKal Solutions
 
-### Computer Vision Engineer
+## Computer Vision Engineer
 * ***Document-image OCR and retrieval system using image processing and tesseract*** 
 	*  Task was to extract information from NCERT textbook images and retrieve the page information for further use case.
 	*  Users were mostly indian school kids or parents doing self study.
@@ -63,7 +57,7 @@ My research papers addresses the problem of activity recognition in cricket trim
 	*  Spoof classifier was trained using SVM on texture features extracted using LBP.
 	*  Tech-stack: darknet, c++, python, linux, windows, Opencv
 
-### Computer Vision Trainee.
+## Computer Vision Trainee.
 
 * ***Displacement calculation of washing machine using video feed***
 	*  Required to predict the displacment within -+5mm of actual displacement.
@@ -90,9 +84,9 @@ My research papers addresses the problem of activity recognition in cricket trim
 	*  Proposed to predict the health of skin after accounting wrinkles, tone, texture , marks(pimples or lesions)
 	*  Image processing algorithms such as LBP for tone and texture score, edge detection and fitting to polynomial function for wrinkles score and contur based detection for marks or non-uniformity score in skin.
 
-## Cell Propulsion Limited
+# Cell Propulsion Limited
 
-### Python Developer Intern.
+## Python Developer Intern.
 * ***Sensor Fusion***
 	*  Part of Computer Vision team on Self Driving Car.
 	*  Setup Texas instrument's radar sensor in my laptop and processed the binary data into visualization plot
@@ -101,8 +95,8 @@ My research papers addresses the problem of activity recognition in cricket trim
 	*  Proposed 12 radar required for covering detection from all directions
 	*  Tech-stack: Python, Kalman filter, linux, Texas instruement radar sensor
 
-## LegalHub Technologies Pvt. Ltd.
-### NLP Engineer.
+# LegalHub Technologies Pvt. Ltd.
+## NLP Engineer.
 
 * ***Document Retrieval System***
 	*  Developed Search Engine for Indian Law DataSet.
@@ -115,9 +109,8 @@ My research papers addresses the problem of activity recognition in cricket trim
 	*  Implemented extraction based summarizer and query based summarizer .
 	*  Tech-stack: python, keras, linux, AWS
 
-## Silversparro Technologies Pvt. Ltd.
-
-### Deep Learning Engineer Intern.
+# Silversparro Technologies Pvt. Ltd.
+## Deep Learning Engineer Intern.
 *  ***Worked on Masked-RCNN to segement text lines from the reciept images to improve existing OCR model***
 	*  Tech-stack: python, tensorflow, keras, AWS
 *  ***Worked on speech to text for a large e-commerce company on customer service recordings***
@@ -125,16 +118,16 @@ My research papers addresses the problem of activity recognition in cricket trim
 *  ***Worked on voot website customer data to predict the customer engagement: performed text analysis and cleaning(>40GB) and initial model creation***
 	*  Tech-stack: python, tensorflow, keras, sst engines, AWS
 
-## LNMIIT
+# LNMIIT
 * ***Sub-coordinator Of Data-Science club***
 	*  I was a sub-coodinator of Data-Science of CYBROS(a technical community club at LNMIIT), introducing and guiding students at LNMIIT in Data Science and sub fields.
 
-## NVIDIA Developer Conference 2019
+# NVIDIA Developer Conference 2019
 * ***Participation as a Student***
 	*  Participated at NVIDIA's developer conference held at mumbai.
 	*  This conference was aimed to bring all developers together and discuss current technologies in Deep learning and how industries utilises them.
 
-## Talk on Mask-RCNN on Image-Segmentation.
+# Talk on Mask-RCNN on Image-Segmentation.
 * ***Particiapted as a Presenter***
 	*  I had delivered a talk on Masked-RCNN at Delhi's Data Science Meetup.
 	*  Report can be found [here](https://docs.google.com/presentation/d/13tW8yzSrJy5EglmkPqpKS_Fg5GMvY77CmsbAzdGm4n0/edit?usp=sharing).
@@ -223,4 +216,3 @@ My research papers addresses the problem of activity recognition in cricket trim
 	* Tech-stack: numpy, python, linux, sklearn
 
 <hr>
-
