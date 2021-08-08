@@ -20,24 +20,7 @@ Much of my experience revolves around building Computer Vision and deep learning
 Computer Vision engineer with extensive experiecne of around 2 years in designing and developing multiple large-scale products in Computer Vision and Deep Learning domain, in an end-to-end manner.
 
 As a Pattern Recognition enthusiast,I also have some experience in NLP(Natural Language Processing) and ASR(Automatic Speech Recognition).
-
-* Well-versed with python, c, c++, data-structres and algorithms
-* Experienced with frameworks including Pytorch, Tensorflow, Keras
-* Skilled in Image Processing, Computer Vision, and Deep Learning, software developemnt skills
-* High familarity with libraries such as OpenCV, Pandas, Numpy, Scikit, SkLearn, Flask, DLib, QT and version control tool such as Git.
-* Experienced working on Unix and Microsoft OS, and exposure to Raspbian OS and embedded hardware such as Raspberry Pi and Nvidia Jetson Nano.
-* Exposed to model optimization techniques using TensorRT, OpenVino, Tflite and other frameworks.
-* Exposed to web services such as AWS, Google cloud, Azure and Heroku 
-
-* **Computer Vision applications** : object detection, object classification, face detection and recognition, handwriting detection, OCR, object tracking ,image search,  motion analysis, keyframe extraction,
-* **NLP             applications** : Information retrieval and summarizer
-* **Deep Learning           models** : VGG-16, Resnet, InceptionNet, Mobilenet, Yolo, Siamese-net, ssd-resnet10, ssd-mobilenetv2, U-net, Siamese Network, MaskedRCNN, FlowNet
-* **Image Processing    algorithms** : HoG, SURF, SIFT, LBP, Canny Edge Detector, Optical Flow, Filters, background-subtraction 
-* **Machine Learning    algorithms** : SVM, Decision Trees, KMeans, KNN, Dbscan, TF-IDF, LDF, BoV
-
 My research papers addresses the problem of activity recognition in cricket trimmed videos, and describes how we used semi-supervised approach and intergrating ideas from NLP and image processing to tackle the problem. 
-
-Having worked on multiple developemnt and research projects, I find myself well equipped with research and project management skills that are necessary for AI based roles, and hence, I'm looking forward for such roles where I can create a positive impact and solve real world problems.
 
 <hr>
 
@@ -45,6 +28,118 @@ Having worked on multiple developemnt and research projects, I find myself well 
 # My Professional Experience
 <p align="center">
 <a href="https://www.linkedin.com/in/ashish-karel/"><img src="Linkedin.png" height=300 width=800></a></p>
+
+
+## KritiKal Solutions
+
+### Computer Vision Engineer
+* ***Document-image OCR and retrieval system using image processing and tesseract*** 
+	*  Task was to extract information from NCERT textbook images and retrieve the page information for further use case.
+	*  Users were mostly indian school kids or parents doing self study.
+	*  Worked on line extraction from books image which sometimes were blurred, tilted, and curved using contour processing
+	*  Main hindrance to accurate system were blurred images(motion or focus), white noise or uneven lighting while capturing images.
+	*  Performed quality check using variance of laplacian and deblurring after removing gaussian noise(assumed blur noise to be gaussian)
+	*  OCR was used on all extracted lines from the images and saved text file for retrival.  
+	*  Evaluated tablet which was going to be used for our OCR system, such as focus, exposure, shutter time, frame quality etc and comapred performance of system on normal images and images from tablet.
+	*  Tech-stack: c++, Opencv, python, ocr, linux, windows
+
+* ***Speech Recognition and analysis in kids speech to augment their language learning phase***
+	*  Created pipeline to collect data for kids below 11 years
+	*  Performed benchmark of existing SOA (like DeepSpeech2) on the dataset for speech to text
+	*  Research on speech recognition model for kids speech and the feasability of existing SOA.
+	*  Tech-stack: python, pytorch-kaldi, tensorflow, linux, sst engines
+
+* ***Counting the number of crates unloaded in a factory warehouse using video feed***
+	*  Data annotation and analysis from warehouse camera feed
+	*  Performed background subtraction for detecting regions of motion 
+	*  Trained yolo detection for crate detection and then counting
+	*  Python executable was delievered for user testing
+	*  Tech-stack: darknet, c++, python, linux, windows, Opencv
+
+* ***3D-barcode detection and spoof classification from 2D images***
+	*  Trained Yolo to detect the 3d marker in images .
+	*  Proposed data collection for classification using micromax smartphone .
+	*  Proposed different types of printing paper for stimulating spoof attack like Matte, Gloosy, Laser etc
+	*  Spoof classifier was trained using SVM on texture features extracted using LBP.
+	*  Tech-stack: darknet, c++, python, linux, windows, Opencv
+
+### Computer Vision Trainee.
+
+* ***Displacement calculation of washing machine using video feed***
+	*  Required to predict the displacment within -+5mm of actual displacement.
+	*  Performed camera calibration, and perspective transformation from image to world coordinate system.
+	*  Proposed camera and aruco marker ideal setup after numerous experiment 
+	*  performed experiment and error analysis on geometric algorithms in 3D world; this repeated till we get our required threshold error.
+	*  Developed UI for the desktop application which runs 4 camera parallely.
+	*  Finally application is used during manufacturing process to identify faulty washing machines.
+	*  Tech-stack: c++, windows, QT Designer, Opencv
+
+* ***Face Detection comparision survey***
+	*  Compared Opencv's (Haar and cascade based face detector) and dlib(HoG + SVM based face detector) face detection methods.
+	*  Analysed their performance by varying the distance.
+	*  Tech-stack: Opencv, Dlib, python, linux
+
+* ***3D bone segmentation from MRI images of patients for pre-surgery analysis***
+	*  Client wants us to handle the 3D patients bone segmentation for surgeons to perform virtual operations before operating on patients
+	*  Researched on clients segmentation tool and human autonomy before presenting our solution
+	*  Performed live segmentation in a meeting and fine tuned the results using hyperparameters in the tool
+	*  Proposed to supervise more than 10 employees for the task
+	*  tech-stack: MRI scans, windows, segmentation tool
+
+* ***Grading Skin Health***
+	*  Proposed to predict the health of skin after accounting wrinkles, tone, texture , marks(pimples or lesions)
+	*  Image processing algorithms such as LBP for tone and texture score, edge detection and fitting to polynomial function for wrinkles score and contur based detection for marks or non-uniformity score in skin.
+
+## Cell Propulsion Limited
+
+### Python Developer Intern.
+* ***Sensor Fusion***
+	*  Part of Computer Vision team on Self Driving Car.
+	*  Setup Texas instrument's radar sensor in my laptop and processed the binary data into visualization plot
+	*  Performed clustering of detection to decrease the number of false detection (using linear kalman filter and dbscan)
+	*  Evaluated the radar by mounting on self driving car to determine its feasiblity
+	*  Proposed 12 radar required for covering detection from all directions
+	*  Tech-stack: Python, Kalman filter, linux, Texas instruement radar sensor
+
+## LegalHub Technologies Pvt. Ltd.
+### NLP Engineer.
+
+* ***Document Retrieval System***
+	*  Developed Search Engine for Indian Law DataSet.
+	*  We have tested different types of searching algorithms on Indian Law DataSet
+	*  Implemented filtering on search results and deployed an overall system on localhost.
+	*  Methods used: word2vec, doc2vec, LDA, n-gram's, tf-idf
+	*  Tech-stack: python,linux, keras, AWS
+
+* ***Document Summarizer ***
+	*  Implemented extraction based summarizer and query based summarizer .
+	*  Tech-stack: python, keras, linux, AWS
+
+## Silversparro Technologies Pvt. Ltd.
+
+### Deep Learning Engineer Intern.
+*  ***Worked on Masked-RCNN to segement text lines from the reciept images to improve existing OCR model***
+	*  Tech-stack: python, tensorflow, keras, AWS
+*  ***Worked on speech to text for a large e-commerce company on customer service recordings***
+	*  Tech-stack: python, tensorflow, keras, AWS
+*  ***Worked on voot website customer data to predict the customer engagement: performed text analysis and cleaning(>40GB) and initial model creation***
+	*  Tech-stack: python, tensorflow, keras, sst engines, AWS
+
+## LNMIIT
+### Sub-coordinator Of Data-Science club 
+*  I was a sub-coodinator of Data-Science of CYBROS(a technical community club at LNMIIT), introducing and guiding students at LNMIIT in Data Science and sub fields.
+
+## NVIDIA Developer Conference 2019
+* ***Participation as a Student***
+	*  Participated at NVIDIA's developer conference held at mumbai.
+	*  This conference was aimed to bring all developers together and discuss current technologies in Deep learning and how industries utilises them.
+
+## Talk on Mask-RCNN on Image-Segmentation.
+* ***Particiapted as a Presenter***
+	*  I had delivered a talk on Masked-RCNN at Delhi's Data Science Meetup.
+	*  Report can be found [here](https://docs.google.com/presentation/d/13tW8yzSrJy5EglmkPqpKS_Fg5GMvY77CmsbAzdGm4n0/edit?usp=sharing).
+<hr>
+
 
 # My Research Experience
 <p align="center">
