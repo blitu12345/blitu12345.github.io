@@ -44,11 +44,11 @@ Having worked on multiple developemnt and research projects, I find myself well 
 
 # My Professional Experience
 <p align="center">
-<a href="https://www.linkedin.com/in/ashish-karel/"><img src="Linkedin.png" height=200 width=800></a></p>
+<a href="https://www.linkedin.com/in/ashish-karel/"><img src="Linkedin.png" height=300 width=800></a></p>
 
 # My Research Experience
 <p align="center">
-<a href="https://www.researchgate.net/profile/Ashish-Karel"><img src="Researchgate.png" height=150 width=600></a></p>
+<a href="https://www.researchgate.net/profile/Ashish-Karel"><img src="Researchgate.png" height=300 width=800></a></p>
 
 <hr>
 
