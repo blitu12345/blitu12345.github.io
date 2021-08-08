@@ -48,7 +48,7 @@ Having worked on multiple developemnt and research projects, I find myself well 
 
 # My Research Experience
 <p align="center">
-<a href="https://www.researchgate.net/profile/Ashish-Karel"><img src="Researchgate.png" height=300 width=800></a></p>
+<a href="https://www.researchgate.net/profile/Ashish-Karel"><img src="Researchgate2.png" height=300 width=800></a></p>
 
 <hr>
 
