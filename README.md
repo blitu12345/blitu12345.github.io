@@ -91,9 +91,9 @@ Much of my experience revolves around building Computer Vision and deep learning
 	*  Part of Computer Vision team on Self Driving Car.
 	*  Setup Texas instrument's radar sensor in my laptop and processed the binary data into visualization plot
 	*  Performed clustering of detection to decrease the number of false detection (using linear kalman filter and dbscan)
-	*  Evaluated the radar by mounting on self driving car to determine its feasiblity
+	*  Evaluated the radar by mounting on self driving car to determine its feasibility
 	*  Proposed 12 radar required for covering detection from all directions
-	*  Tech-stack: Python, Kalman filter, linux, Texas instruement radar sensor
+	*  Tech-stack: Python, Kalman filter, linux, Texas instrument radar sensor
 
 # LegalHub Technologies Pvt. Ltd.
 ## NLP Engineer.
