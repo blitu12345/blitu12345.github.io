@@ -21,7 +21,7 @@ Much of my experience revolves around building Computer Vision and deep learning
 
 # My Professional Experience
 <p align="center">
-<a href="https://www.linkedin.com/in/ashish-karel/"><img src="Linkedin.png" height=300 width=800></a></p>
+<a href="https://www.linkedin.com/in/ashish-karel/"><img src="Linkedin.png" height=300 width=600></a></p>
 
 
 # KritiKal Solutions
