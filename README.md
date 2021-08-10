@@ -151,7 +151,7 @@ Much of my experience revolves around building Computer Vision and deep learning
 * ***[Mask and Helmet classifiaction for construction workers](https://colab.research.google.com/drive/1PGOjOOrs4kECVEY69WRAFLfAOC99MnDJ?usp=sharing)***
 	* Classified if construction workers wore helmet and mask 
 	* multilabel classification: mobilenetv2, accuracy obtained 82%
-	* Tech-stack: python, tensorflow, colab, numpy
+	* Tech-stack: python, pytorch, colab, numpy
 
 * ***[Institute Map](https://github.com/aviformat/Institute-map-using-DIP)***
 	* Guidance mobile app for people's first visit(like parents, new joinee and admission students) to LNMIIT being a vast campus of 100 acres with huge infrastructure . 
