@@ -28,7 +28,7 @@ Much of my experience revolves around building Computer Vision and deep learning
 # Xtra Vision AI
 
 ## AI Engineer
-* ***Document-image OCR and retrieval system using image processing and tesseract***
+* ***Worked on computer vision based solution to help monitor patient movement during virtual rehabilitation***
 	*  Built module for posture analysis of user, utilising body landmarks and segmentation
 	   map, by integrating the functionality on our AI server.
 	*  Developed models for user action recognition calculating real-time rep counting and
@@ -44,7 +44,7 @@ Much of my experience revolves around building Computer Vision and deep learning
 # Tarsyer Insights LLP
 
 ## Computer Vision Engineer
-* ***Document-image OCR and retrieval system using image processing and tesseract*** 
+* ***worked on computer vision based solution to help manufacturing industry automate surveillence.*** 
 	*  Developed program to automate monitoring of cement silos and send smoke ,scrap garbage ,and ppe voilation alerts.
 	*  Developed manufacturing parts counting on conveyor belt using ssd-mobilenetv2-320, imported to tflite unit8 precision and deployed 
            model on raspberry pi.
