@@ -24,6 +24,33 @@ Much of my experience revolves around building Computer Vision and deep learning
 <a href="https://www.linkedin.com/in/ashish-karel/"><img src="Linkedin.png" height=300 width=400></a></p>
 
 
+
+# Xtra Vision AI
+
+## AI Engineer
+* ***Document-image OCR and retrieval system using image processing and tesseract***
+	*  Built module for posture analysis of user, utilising body landmarks and segmentation
+	   map, by integrating the functionality on our AI server.
+	*  Developed models for user action recognition calculating real-time rep counting and
+	   pose correction feedback. Employed techniques including rule-based logic and SVM
+	   classification, utilizing tools like Mediapipe, scikit-learn, and Python.
+	*  Built an end-to-end deep learning pipeline for predicting user pose corrective feedback.
+	   Trained siamese networks with hinge loss.
+	*  Trained a yolov8-small model for human landmarks prediction to replace google’s mediapipe. Modified the final prediction layer and 	   utilized coco-pose dataset along with internal exercise videos for training.
+	*  Worked on Exercise Builder an end to end module, facilitating real-time assessment of user rep counting, and pose corrective 	   feedback. It enhanced efficiency by streamlining assessment development and scaling processes.
+	*  Managed a team of five members for one year, successfully delivering approximately 150 assessment modules to meet client 		   requirements
+	*  Tech-stack: Tensorflow, Mediapipe, Opencv, python,linux, AWS, Docker
+
+# Tarsyer Insights LLP
+
+## Computer Vision Engineer
+* ***Document-image OCR and retrieval system using image processing and tesseract*** 
+	*  Developed program to automate monitoring of cement silos and send smoke ,scrap garbage ,and ppe voilation alerts.
+	*  Developed manufacturing parts counting on conveyor belt using ssd-mobilenetv2-320, imported to tflite unit8 precision and deployed 
+           model on raspberry pi.
+	*  Tech-stack: Tflite, raspberry pi, Opencv, python,linux, windows
+
+
 # KritiKal Solutions
 
 ## Computer Vision Engineer
